@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+
+bundle.js*
+config.js
+config.ts
+config.js.map
+dist/

@@ -1,0 +1,7 @@
+**/.eslint*
+**/*.ejs
+**/node_modules
+**/bower_components
+**/lib
+**/_docs
+**/dist
